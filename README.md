@@ -42,4 +42,4 @@ In this project, you can run the following scripts:
 | npm run build | Builds the app for production to the `build` folder.                    |
 | npm run eject | This command will remove the single build dependency from your project. |
 
-## License
+
